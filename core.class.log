@@ -1,0 +1,106 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217225616152@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03581CC55285A56DD60',
+    participant: undefined
+  },
+  messageTimestamp: 1713369493,
+  pushName: 'Diego YY',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5217225616152'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_38e260ab-52bd-498c-9790-ad68cc99d92d',
+  keyword: 'key_1a80ee14-50d5-4458-a1c7-24fce69af501',
+  answer: '🙌 Hola, bienvendio al *SOS*, Sistema Optimizado de Soporte, de la unidad de informática\n' +
+    'En este momento se encuentra abierto el sistema de ayuda\n' +
+    'Nuestro horario de atención es de:\n' +
+    'Lunes a Viernes = *9:00 a 18:00 hrs.*\n' +
+    'Sábado y Domingo = *No activo*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b468c196c8206cf0d62564f5fd99afd8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f28c0ab6-f9f8-43c5-8a4a-4b784d5b3fed',
+  keyword: 'ans_38e260ab-52bd-498c-9790-ad68cc99d92d',
+  answer: 'Gracias por comunicarte con la Unidad de Informática, porfavor coloque su nombre y escriba brevemente un problema a tratar\n' +
+    '>Ticket Firmado.\n' +
+    '>Oficio Firmado.\n' +
+    '>Problemas de Red.\n' +
+    '>No imprime.\n' +
+    '>Escaneo no Llega.\n' +
+    '>No Enciende.\n' +
+    '>Teclado no Funciona.\n' +
+    '>Distorsión Imagen.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8fa1ea7d66d57911e21b00256411406b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217225616152@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB042F3F242189EC23F8D',
+    participant: undefined
+  },
+  messageTimestamp: 1713369535,
+  pushName: 'Diego YY',
+  broadcast: false,
+  message: Message {
+    conversation: 'Genera ticket',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Genera ticket',
+  from: '5217225616152'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc7ef894-ce5e-4f8a-beee-f54949bd9da0',
+  keyword: 'key_f858257a-4260-45ca-b5ed-1d9738e0804e',
+  answer: '>Para esta incidencia se requiere generar en el sistema S.O.S. un ticket de atención, deberá ser impreso y firmado por el jefe inmediato superior, una vez firmado, entregar a la Unidad de Informática y a la brevedad uno de nuestros compañeros se pondrá en contacto con usted para más detalles.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'de11944aaeeb2572f3d5823d6ceb52d8'
+}
